@@ -16,5 +16,5 @@
 
 ### 参考
 - [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-- [Pytorch Tutorials](https://pytorch.org/tutorials/) and [Docs](https://pytorch.org/docs/stable/index.html)
-- 
+- Pytorch Tutorials ([official](https://pytorch.org/tutorials/), [cn](https://pytorch.apachecn.org/docs/1.2/)) and [Docs](https://pytorch.org/docs/stable/index.html)
+- []
