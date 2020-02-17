@@ -14,3 +14,7 @@
     - CLF by pure WE、CNN、RNN(+attn)、fastText、tf
     - MIT/QA by RNN(LSTM、GRU)、RNN+attn、tf
 
+### 参考
+- [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+- [Pytorch Tutorials](https://pytorch.org/tutorials/) and [Docs](https://pytorch.org/docs/stable/index.html)
+- 
