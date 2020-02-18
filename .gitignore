@@ -1,0 +1,20 @@
+.gitmodules
+dataset/Images
+dataset/original_zip_file
+dataset/*.json
+UpDn_VQA-master
+runs
+.idea
+.git
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac
+.DS_Store
+._.DS_Store
+
+.ipynb_checkpoints
+
