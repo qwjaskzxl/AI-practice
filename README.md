@@ -15,6 +15,7 @@
     - MIT/QA by RNN(LSTM、GRU)、RNN+attn、tf
 
 ### 参考
+- [pytorch-handbook](https://github.com/zergtant/pytorch-handbook), chapter4 remained
 - [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 - Pytorch Tutorials ([official](https://pytorch.org/tutorials/), [cn](https://pytorch.apachecn.org/docs/1.2/)) and [Docs](https://pytorch.org/docs/stable/index.html)
-- []
+- [] 
