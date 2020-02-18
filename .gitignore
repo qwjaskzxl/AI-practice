@@ -1,4 +1,5 @@
 .gitmodules
+.gitattributes
 dataset/Images
 dataset/original_zip_file
 dataset/*.json
