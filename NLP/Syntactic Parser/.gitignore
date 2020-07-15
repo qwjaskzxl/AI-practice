@@ -1,0 +1,10 @@
+#斯坦福core模型
+stanford-corenlp-full-2018-10-05/
+
+#斯坦福parser模型
+englishPCFG.ser.gz
+stanford-parser.jar
+stanford-parser-3.9.1-models.jar
+
+#输入与输出结果
+#*.xlsx
