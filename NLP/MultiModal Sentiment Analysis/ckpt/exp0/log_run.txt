@@ -1,0 +1,15 @@
+Namespace(ans_size=2, audio_feat_size=80, audio_seq_len=60, batch_size=50, dataloader='Mosei_Dataset', dataset='MOSEI', dropout_r=0.1, early_stop=20, eval_start=0, ff_size=2048, grad_norm_clip=-1, hidden_size=512, lang_seq_len=60, layer=6, loss_fn=CrossEntropyLoss(), lr_base=5e-05, lr_decay=0.5, lr_decay_times=20, max_epoch=5, model='Model_LA', multi_head=8, name='exp0/', opt='Adam', opt_params="{'betas': '(0.9, 0.98)', 'eps': '1e-9'}", output='ckpt/', pred_func='amax', seed=4894592, task='sentiment', task_binary=True, warmup_epoch=0, word_embed_size=300)Epoch: 1, Loss: 0.5003199103327312, Lr: [5e-05]
+Elapsed time: 181, Speed(s/batch): 0.5580749760376164
+
+Epoch: 2, Loss: 0.4156211068686147, Lr: [5e-05]
+Elapsed time: 183, Speed(s/batch): 0.5624933520709079
+
+Epoch: 3, Loss: 0.3864983745394345, Lr: [5e-05]
+Elapsed time: 183, Speed(s/batch): 0.5638731740003714
+
+Epoch: 4, Loss: 0.36313408082761217, Lr: [5e-05]
+Elapsed time: 183, Speed(s/batch): 0.5642441467273455
+
+Epoch: 5, Loss: 0.35146024172090085, Lr: [2.5e-05]
+Elapsed time: 184, Speed(s/batch): 0.5645428215799156
+
